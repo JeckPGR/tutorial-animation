@@ -196,6 +196,10 @@ export default function StepList() {
           />
         ))}
       </div>
+    
+      <div className="mt-7 flex w-full justify-center items-center"> 
+        <p className="text-md text-gray-500 font-semibold">Created by Jecky</p>
+      </div>
 
       {/* Sticky navigation controls */}
       <motion.div
